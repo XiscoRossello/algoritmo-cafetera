@@ -1,0 +1,9 @@
+Asegura la capsula
+Calienta
+Durante 5 segundos
+    Manten temperatura
+    Coge agua del deposito
+    Inyecta agua
+    Saca café
+Libera la capsula
+Aviso de finalización
